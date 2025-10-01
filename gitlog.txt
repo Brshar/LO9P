@@ -1,0 +1,29 @@
+commit c14e32a07135ade0a61d5b48fed1c9666b8ec680
+Author: Raju Sharma <raju_sharma@mines.edu>
+Date:   Wed Oct 1 13:40:50 2025 -0600
+
+    change color of text to blue
+
+commit 267757db1730a6bf735605eb85db450262e84186
+Author: TonyPeonio <Tony_peonio@mines.edu>
+Date:   Wed Oct 1 13:39:21 2025 -0600
+
+    Changed dimension of head to 200
+
+commit f655ad305ee82b459b7623b26e9e460f519ff456
+Author: Raju Sharma <raju_sharma@mines.edu>
+Date:   Wed Oct 1 13:38:32 2025 -0600
+
+    changed color of cat to pink
+
+commit 062b596bb6b8427bf7a3f26f6e84dbb19d0da5ae
+Author: TonyPeonio <Tony_peonio@mines.edu>
+Date:   Wed Oct 1 13:34:46 2025 -0600
+
+    Changed the cat color to white
+
+commit 86f64244a16620d28f11eef9b60c27ab7a1bd401
+Author: Raju Sharma <raju_sharma@mines.edu>
+Date:   Wed Oct 1 13:16:23 2025 -0600
+
+    initial commit
